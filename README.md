@@ -14,6 +14,7 @@ These reports aims to explore Artificial Intelligence techniques applied to Cybe
   - Overfitting and regularization.
 - **Lab 2 - Model Engineering**:
   - Bag of word approach.
+  - Embeddings.
   - Feed forward neural network.
   - Recursive Neural Network.
   - Graph Neural Network.
